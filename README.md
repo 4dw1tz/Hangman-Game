@@ -4,5 +4,6 @@ Incase you don't know how to play hangman, the computer will choose a random wor
 
 To download the game, all you need is Python installed on your computer so you can view and even make edits to the files as you please.
 The list of words in the "nounlist" text file is a Kaggle dataset created by @Manuel Leite.
+MAKE SURE BOTH FILES ARE IN THE SAME FOLDER WHEN RUNNING THE GAME!
 
 ENJOY!
